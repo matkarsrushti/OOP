@@ -1,5 +1,5 @@
 
-// String structure
+// String class
 
 #include<iostream>
 using namespace std;
